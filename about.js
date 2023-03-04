@@ -18,5 +18,5 @@ reply.addEventListener('hover', hoverOverImageReply);
 
 
 document.getElementById('rubberduck').addEventListener('mouseover', hoverOverImageReply);
-
+let form = document.querySelector('form')
 form.addEventListener('submit', handleSubmit);

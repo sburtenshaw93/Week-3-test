@@ -1,0 +1,82 @@
+body {
+    color: rgb(0, 0, 0) ;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0jzTIch_0rVPF45FgcSwH4uSBA4XfmgKEg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 99%;
+    font-family: 'Bodoni Moda', serif;
+    
+}
+
+img {
+    border-radius: 190px;
+    height: 10%;
+    width: 10%;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    margin-left: 2%;
+}
+
+.hobby {
+    color: rgb(0, 0, 0);
+    margin-left: 6px;
+    font-size: 35px;
+}
+.hobbywrapper {
+    margin-left: 1%;
+}
+.hobby-paragraph {
+    font-size: 20px;
+    color: rgb(213,124,92);
+    
+    
+}
+.careergoal {
+    margin-left: 20px;
+    font-size: 30px;
+}
+.goalswrapper {
+    margin-left: 1%;
+    font-size: 35px;
+    
+}
+.goals-paragraph {
+    font-size: 20px;
+    color: rgb(218,140,112);
+    
+}
+.skills {
+    color: rgb(222,153,127);
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+.skillswrapper {
+    margin-left: 1%;
+    font-size: 35px;
+}
+.favorite-btn {
+    color: rgb(226,165,143);
+    height: 40px;
+    width: 120px;
+    border-radius: 6px;
+    background-color: white;
+    
+}
+.interestwrapper {
+    margin-left: 23%;
+    font-size: 35px;
+}
+.user {
+    margin-left: 2%;
+    font-size: 25px;
+}
+.profile {
+    margin-left: 2%;
+    font-size: 20px;
+}
+.skills-interest-wrapper {
+    display: flex;
+}
